@@ -1,0 +1,7 @@
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\bin\Debug\DegreeOfArray.exe.config
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\bin\Debug\DegreeOfArray.exe
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\bin\Debug\DegreeOfArray.pdb
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\obj\Debug\DegreeOfArray.csproj.CoreCompileInputs.cache
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\obj\Debug\DegreeOfArray.exe
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\obj\Debug\DegreeOfArray.pdb
+C:\Users\sujaycha\Documents\codeScribbling\DegreeOfArray\DegreeOfArray\obj\Debug\DegreeOfArray.csprojAssemblyReference.cache
