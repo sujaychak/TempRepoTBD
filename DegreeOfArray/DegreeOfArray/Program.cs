@@ -2,8 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 /*
  Find the degree of an Array i.e. the max occurance of a single value
@@ -34,6 +32,7 @@ namespace DegreeOfArray
                 int temp = (int)item;
                 if (ar.Count > 0 && ar.ContainsKey(temp))
                 {
+                https://github.com/sujaychak/TempRepoTBD.git
                     ArrayStats ast = ar[temp];
                     ast.itemCount++;
                     ast.lastIdx = i;
