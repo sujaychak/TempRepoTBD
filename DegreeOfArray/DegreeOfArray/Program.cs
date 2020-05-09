@@ -19,20 +19,18 @@ namespace DegreeOfArray
         }
         static void Main(string[] args)
         {
+        	//Some Text for testing GIT
             ArrayList array = new ArrayList();
             Dictionary<int, ArrayStats> ar = new Dictionary<int, ArrayStats>();
             Console.WriteLine("Enter the array, with elements separated by space");
             string resp = Console.ReadLine();
-			NewBaseClass bc = new NewBaseClass();
-			bc.GetValue();
-            array.AddRange(resp.Split(' ').ToList());
+			array.AddRange(resp.Split(' ').ToList());
             int i = 0;
             foreach (var item in array)
             {
                 int temp = (int)item;
                 if (ar.Count > 0 && ar.ContainsKey(temp))
                 {
-                https://github.com/sujaychak/TempRepoTBD.git
                     ArrayStats ast = ar[temp];
                     ast.itemCount++;
                     ast.lastIdx = i;
